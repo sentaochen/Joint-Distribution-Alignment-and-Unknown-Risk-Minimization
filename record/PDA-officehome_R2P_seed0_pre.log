@@ -1,0 +1,17 @@
+1811
+4439
+1811
+4439
+epoch:1, acc_os:77.467880, acc_os_star:80.566597, acc_unknown:0.000000, acc_hos:0.000000
+epoch:2, acc_os:78.743172, acc_os_star:80.958458, acc_unknown:23.360964, acc_hos:36.259167
+epoch:3, acc_os:79.211548, acc_os_star:81.546555, acc_unknown:20.836472, acc_hos:33.191879
+epoch:4, acc_os:78.901917, acc_os_star:80.317223, acc_unknown:43.519218, acc_hos:56.450951
+epoch:5, acc_os:76.865791, acc_os_star:77.565140, acc_unknown:59.382065, acc_hos:67.266479
+epoch:6, acc_os:76.911301, acc_os_star:77.817444, acc_unknown:54.257729, acc_hos:63.936287
+epoch:7, acc_os:75.386139, acc_os_star:76.053429, acc_unknown:58.703846, acc_hos:66.261780
+epoch:8, acc_os:72.862534, acc_os_star:73.270622, acc_unknown:62.660133, acc_hos:67.551270
+epoch:9, acc_os:72.365562, acc_os_star:72.529213, acc_unknown:68.274300, acc_hos:70.337471
+epoch:10, acc_os:67.993332, acc_os_star:67.606812, acc_unknown:77.656372, acc_hos:72.283974
+final model save!
+PreTraining complete in 0.0h 4.0m 50s
+

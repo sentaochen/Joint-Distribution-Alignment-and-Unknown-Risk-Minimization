@@ -1,0 +1,766 @@
+model_path:/home/lishengwen/harddisk/OSDA/Joint-Alignment-with-Unknown-Probability-Loss/save_model_OSDA/OFFICEHOME/RESNET/best(PT)_resnet_Real_Clipart.pth
+LabelSampler batch_num:1000
+[(0, 32), (1, 13), (2, 18), (3, 10), (4, 43), (5, 30), (6, 85), (7, 60), (8, 50), (9, 18), (10, 75), (11, 20), (12, 110), (13, 8), (14, 43), (15, 58), (16, 27), (17, 18), (18, 49), (19, 31), (20, 46), (21, 36), (22, 17), (23, 184), (24, 36), (25, 3248)]
+Update pseudo labels. Accuracy is 62.22222.
+1811 4365
+Initial model: acc_os:33.710003, acc_os_star:31.773645, acc_unknown:82.118958, acc_hos:45.818932
+Learning rate: 0.00992565
+Step: [100/50000]: lambd:0.00999966667999952, div_loss:328.5186, cls_loss:0.4542
+Learning rate: 0.00985258
+Step: [200/50000]: lambd:0.01999733375993107, div_loss:279.1598, cls_loss:0.5847
+Learning rate: 0.00978075
+Step: [300/50000]: lambd:0.02999100323881998, div_loss:250.2762, cls_loss:0.3975
+Learning rate: 0.00971013
+Step: [400/50000]: lambd:0.039978680311163695, div_loss:230.6031, cls_loss:0.2203
+Learning rate: 0.00964069
+Step: [500/50000]: lambd:0.049958374957880025, div_loss:209.9434, cls_loss:0.2235
+500 step train time: 162.9s
+Step: [500/50000]: acc_os:52.639412, acc_os_star:53.418594, acc_unknown:33.159851, acc_hos:40.919025
+500 step cost time: 0.0h 2.0m 53s
+
+Learning rate: 0.00957239
+Step: [600/50000]: lambd:0.05992810352914346, div_loss:199.7049, cls_loss:0.2858
+Learning rate: 0.00950522
+Step: [700/50000]: lambd:0.069885890316429, div_loss:192.6456, cls_loss:0.5214
+Learning rate: 0.00943913
+Step: [800/50000]: lambd:0.07982976911113138, div_loss:177.5573, cls_loss:0.3424
+Learning rate: 0.00937411
+Step: [900/50000]: lambd:0.08975778474716023, div_loss:165.2938, cls_loss:0.3160
+Learning rate: 0.00931012
+Step: [1000/50000]: lambd:0.0996679946249559, div_loss:145.5583, cls_loss:0.2955
+500 step train time: 336.0s
+Step: [1000/50000]: acc_os:52.873474, acc_os_star:52.701424, acc_unknown:57.174717, acc_hos:54.847015
+[(0, 43), (1, 27), (2, 45), (3, 32), (4, 58), (5, 52), (6, 134), (7, 82), (8, 93), (9, 32), (10, 98), (11, 46), (12, 241), (13, 32), (14, 68), (15, 95), (16, 51), (17, 85), (18, 71), (19, 64), (20, 97), (21, 67), (22, 39), (23, 450), (24, 178), (25, 2085)]
+Update pseudo labels. Accuracy is 54.73081.
+LabelSampler batch_num:1000
+1000 step cost time: 0.0h 5.0m 54s
+
+Learning rate: 0.00924715
+Step: [1100/50000]: lambd:0.10955847021442966, div_loss:252.5322, cls_loss:0.3361
+Learning rate: 0.00918515
+Step: [1200/50000]: lambd:0.11942729853438583, div_loss:224.6367, cls_loss:0.3916
+Learning rate: 0.00912412
+Step: [1300/50000]: lambd:0.12927258360605842, div_loss:221.8272, cls_loss:0.3223
+Learning rate: 0.00906403
+Step: [1400/50000]: lambd:0.1390924478784581, div_loss:201.9123, cls_loss:0.3237
+Learning rate: 0.00900485
+Step: [1500/50000]: lambd:0.14888503362331806, div_loss:181.8589, cls_loss:0.4166
+500 step train time: 520.4s
+Step: [1500/50000]: acc_os:56.702702, acc_os_star:56.667465, acc_unknown:57.583641, acc_hos:57.121880
+1500 step cost time: 0.0h 8.0m 50s
+
+Learning rate: 0.00894657
+Step: [1600/50000]: lambd:0.158648504297499, div_loss:168.2588, cls_loss:0.2972
+Learning rate: 0.00888916
+Step: [1700/50000]: lambd:0.16838104587081482, div_loss:172.2765, cls_loss:0.3928
+Learning rate: 0.00883260
+Step: [1800/50000]: lambd:0.17808086811733026, div_loss:164.2906, cls_loss:0.4892
+Learning rate: 0.00877687
+Step: [1900/50000]: lambd:0.1877462058682855, div_loss:159.6676, cls_loss:0.3281
+Learning rate: 0.00872196
+Step: [2000/50000]: lambd:0.197375320224904, div_loss:154.4733, cls_loss:0.2816
+500 step train time: 692.1s
+Step: [2000/50000]: acc_os:57.572830, acc_os_star:57.581318, acc_unknown:57.360596, acc_hos:57.470749
+[(0, 53), (1, 33), (2, 46), (3, 37), (4, 67), (5, 58), (6, 136), (7, 80), (8, 100), (9, 32), (10, 109), (11, 46), (12, 238), (13, 42), (14, 58), (15, 91), (16, 40), (17, 89), (18, 77), (19, 75), (20, 101), (21, 74), (22, 47), (23, 451), (24, 155), (25, 2030)]
+Update pseudo labels. Accuracy is 56.74685.
+LabelSampler batch_num:1000
+2000 step cost time: 0.0h 11.0m 51s
+
+Learning rate: 0.00866784
+Step: [2100/50000]: lambd:0.2069664997294527, div_loss:116.4836, cls_loss:0.2992
+Learning rate: 0.00861450
+Step: [2200/50000]: lambd:0.21651806149302866, div_loss:124.0011, cls_loss:0.3132
+Learning rate: 0.00856192
+Step: [2300/50000]: lambd:0.22602835227867102, div_loss:117.3613, cls_loss:0.3974
+Learning rate: 0.00851008
+Step: [2400/50000]: lambd:0.23549574953849794, div_loss:115.7611, cls_loss:0.3889
+Learning rate: 0.00845897
+Step: [2500/50000]: lambd:0.2449186624037092, div_loss:104.7802, cls_loss:0.5357
+500 step train time: 869.9s
+Step: [2500/50000]: acc_os:58.159004, acc_os_star:58.049679, acc_unknown:60.892193, acc_hos:59.436970
+2500 step cost time: 0.0h 14.0m 40s
+
+Learning rate: 0.00840857
+Step: [2600/50000]: lambd:0.25429553262639115, div_loss:118.7713, cls_loss:0.3795
+Learning rate: 0.00835886
+Step: [2700/50000]: lambd:0.2636248354722033, div_loss:106.4719, cls_loss:0.4496
+Learning rate: 0.00830984
+Step: [2800/50000]: lambd:0.2729050805631328, div_loss:108.0829, cls_loss:0.4022
+Learning rate: 0.00826148
+Step: [2900/50000]: lambd:0.28213481266963414, div_loss:108.1257, cls_loss:0.3614
+Learning rate: 0.00821377
+Step: [3000/50000]: lambd:0.2913126124515908, div_loss:103.3142, cls_loss:0.4500
+500 step train time: 1046.5s
+Step: [3000/50000]: acc_os:58.368008, acc_os_star:58.213512, acc_unknown:62.230484, acc_hos:60.155018
+[(0, 48), (1, 31), (2, 47), (3, 41), (4, 72), (5, 55), (6, 134), (7, 73), (8, 102), (9, 33), (10, 121), (11, 42), (12, 226), (13, 52), (14, 63), (15, 74), (16, 43), (17, 85), (18, 64), (19, 66), (20, 96), (21, 71), (22, 54), (23, 341), (24, 143), (25, 2188)]
+Update pseudo labels. Accuracy is 60.11455.
+LabelSampler batch_num:1000
+3000 step cost time: 0.0h 17.0m 46s
+
+Learning rate: 0.00816670
+Step: [3100/50000]: lambd:0.3004370971476542, div_loss:79.5013, cls_loss:0.3871
+Learning rate: 0.00812025
+Step: [3200/50000]: lambd:0.30950692121263845, div_loss:89.3214, cls_loss:0.4136
+Learning rate: 0.00807442
+Step: [3300/50000]: lambd:0.3185207769027709, div_loss:78.9864, cls_loss:0.4424
+Learning rate: 0.00802918
+Step: [3400/50000]: lambd:0.3274773948087055, div_loss:69.7407, cls_loss:0.3568
+Learning rate: 0.00798454
+Step: [3500/50000]: lambd:0.3363755443363323, div_loss:74.8371, cls_loss:0.4606
+500 step train time: 1234.0s
+Step: [3500/50000]: acc_os:58.556545, acc_os_star:58.344162, acc_unknown:63.866169, acc_hos:60.980408
+3500 step cost time: 0.0h 20.0m 44s
+
+Learning rate: 0.00794046
+Step: [3600/50000]: lambd:0.34521403413552076, div_loss:69.8477, cls_loss:0.3333
+Learning rate: 0.00789695
+Step: [3700/50000]: lambd:0.35399171247704597, div_loss:67.6665, cls_loss:0.5092
+Learning rate: 0.00785400
+Step: [3800/50000]: lambd:0.3627074675780513, div_loss:71.5734, cls_loss:0.3364
+Learning rate: 0.00781158
+Step: [3900/50000]: lambd:0.3713602278765078, div_loss:73.1384, cls_loss:0.3263
+Learning rate: 0.00776970
+Step: [4000/50000]: lambd:0.379948962255225, div_loss:62.0871, cls_loss:0.3539
+500 step train time: 1392.7s
+Step: [4000/50000]: acc_os:59.375263, acc_os_star:59.167374, acc_unknown:64.572487, acc_hos:61.751884
+[(0, 50), (1, 32), (2, 48), (3, 39), (4, 73), (5, 56), (6, 123), (7, 81), (8, 102), (9, 35), (10, 101), (11, 41), (12, 225), (13, 51), (14, 58), (15, 79), (16, 47), (17, 76), (18, 70), (19, 65), (20, 97), (21, 71), (22, 58), (23, 298), (24, 137), (25, 2252)]
+Update pseudo labels. Accuracy is 61.92440.
+LabelSampler batch_num:1000
+4000 step cost time: 0.0h 23.0m 32s
+
+Learning rate: 0.00772833
+Step: [4100/50000]: lambd:0.38847268021606096, div_loss:65.8073, cls_loss:0.4122
+Learning rate: 0.00768748
+Step: [4200/50000]: lambd:0.3969304320050775, div_loss:60.9936, cls_loss:0.3806
+Learning rate: 0.00764712
+Step: [4300/50000]: lambd:0.4053213086894629, div_loss:60.4734, cls_loss:0.4494
+Learning rate: 0.00760726
+Step: [4400/50000]: lambd:0.41364444218713525, div_loss:59.9431, cls_loss:0.3403
+Learning rate: 0.00756788
+Step: [4500/50000]: lambd:0.4218990052500078, div_loss:58.1796, cls_loss:0.3138
+500 step train time: 1572.2s
+Step: [4500/50000]: acc_os:59.370510, acc_os_star:59.080650, acc_unknown:66.617104, acc_hos:62.622940
+4500 step cost time: 0.0h 26.0m 22s
+
+Learning rate: 0.00752897
+Step: [4600/50000]: lambd:0.4300842114019796, div_loss:48.9852, cls_loss:0.3041
+Learning rate: 0.00749052
+Step: [4700/50000]: lambd:0.43819931483276786, div_loss:71.1795, cls_loss:0.3281
+Learning rate: 0.00745253
+Step: [4800/50000]: lambd:0.4462436102487797, div_loss:53.4972, cls_loss:0.3067
+Learning rate: 0.00741499
+Step: [4900/50000]: lambd:0.4542164326822591, div_loss:48.0220, cls_loss:0.2865
+Learning rate: 0.00737788
+Step: [5000/50000]: lambd:0.4621171572600098, div_loss:52.9304, cls_loss:0.4472
+500 step train time: 1746.3s
+Step: [5000/50000]: acc_os:59.782101, acc_os_star:59.465576, acc_unknown:67.695168, acc_hos:63.314068
+[(0, 48), (1, 32), (2, 46), (3, 40), (4, 77), (5, 58), (6, 118), (7, 81), (8, 100), (9, 38), (10, 107), (11, 41), (12, 209), (13, 51), (14, 59), (15, 80), (16, 42), (17, 76), (18, 84), (19, 61), (20, 96), (21, 70), (22, 57), (23, 228), (24, 108), (25, 2358)]
+Update pseudo labels. Accuracy is 63.94044.
+LabelSampler batch_num:1000
+5000 step cost time: 0.0h 29.0m 25s
+
+Learning rate: 0.00734120
+Step: [5100/50000]: lambd:0.46994519893303766, div_loss:49.5410, cls_loss:0.2757
+Learning rate: 0.00730495
+Step: [5200/50000]: lambd:0.4777000121684978, div_loss:44.4438, cls_loss:0.4593
+Learning rate: 0.00726911
+Step: [5300/50000]: lambd:0.4853810906053715, div_loss:43.9362, cls_loss:0.2682
+Learning rate: 0.00723368
+Step: [5400/50000]: lambd:0.4929879666753243, div_loss:46.5184, cls_loss:0.2708
+Learning rate: 0.00719865
+Step: [5500/50000]: lambd:0.5005202111902354, div_loss:50.6310, cls_loss:0.5017
+500 step train time: 1928.5s
+Step: [5500/50000]: acc_os:59.273106, acc_os_star:58.936222, acc_unknown:67.695168, acc_hos:63.012772
+5500 step cost time: 0.0h 32.0m 17s
+
+Learning rate: 0.00716402
+Step: [5600/50000]: lambd:0.5079774328978963, div_loss:34.4811, cls_loss:0.2858
+Learning rate: 0.00712977
+Step: [5700/50000]: lambd:0.5153592780074097, div_loss:34.4266, cls_loss:0.3152
+Learning rate: 0.00709590
+Step: [5800/50000]: lambd:0.5226654296858209, div_loss:46.8948, cls_loss:0.3336
+Learning rate: 0.00706240
+Step: [5900/50000]: lambd:0.5298956075275294, div_loss:42.8720, cls_loss:0.3341
+Learning rate: 0.00702927
+Step: [6000/50000]: lambd:0.5370495669980351, div_loss:37.7558, cls_loss:0.2803
+500 step train time: 2098.1s
+Step: [6000/50000]: acc_os:59.288960, acc_os_star:58.888771, acc_unknown:69.293678, acc_hos:63.668930
+[(0, 48), (1, 35), (2, 46), (3, 37), (4, 77), (5, 56), (6, 123), (7, 82), (8, 100), (9, 37), (10, 99), (11, 41), (12, 212), (13, 51), (14, 56), (15, 64), (16, 42), (17, 75), (18, 73), (19, 61), (20, 83), (21, 69), (22, 57), (23, 205), (24, 114), (25, 2422)]
+Update pseudo labels. Accuracy is 64.67354.
+LabelSampler batch_num:1000
+6000 step cost time: 0.0h 35.0m 19s
+
+Learning rate: 0.00699650
+Step: [6100/50000]: lambd:0.5441270988535674, div_loss:33.2281, cls_loss:0.4206
+Learning rate: 0.00696408
+Step: [6200/50000]: lambd:0.5511280285381468, div_loss:29.3154, cls_loss:0.3420
+Learning rate: 0.00693201
+Step: [6300/50000]: lambd:0.5580522155596244, div_loss:29.4196, cls_loss:0.3354
+Learning rate: 0.00690029
+Step: [6400/50000]: lambd:0.5648995528462248, div_loss:34.0975, cls_loss:0.3521
+Learning rate: 0.00686890
+Step: [6500/50000]: lambd:0.5716699660851172, div_loss:30.3246, cls_loss:0.2995
+500 step train time: 2279.7s
+Step: [6500/50000]: acc_os:59.290863, acc_os_star:58.899670, acc_unknown:69.070633, acc_hos:63.580967
+6500 step cost time: 0.0h 38.0m 8s
+
+Learning rate: 0.00683784
+Step: [6600/50000]: lambd:0.5783634130445059, div_loss:26.9422, cls_loss:0.2472
+Learning rate: 0.00680711
+Step: [6700/50000]: lambd:0.5849798828807289, div_loss:27.9040, cls_loss:0.2276
+Learning rate: 0.00677670
+Step: [6800/50000]: lambd:0.5915193954318165, div_loss:28.9360, cls_loss:0.2753
+Learning rate: 0.00674660
+Step: [6900/50000]: lambd:0.5979820004989413, div_loss:27.0920, cls_loss:0.2208
+Learning rate: 0.00671681
+Step: [7000/50000]: lambd:0.6043677771171634, div_loss:27.4971, cls_loss:0.3829
+500 step train time: 2441.9s
+Step: [7000/50000]: acc_os:59.334171, acc_os_star:58.904564, acc_unknown:70.074348, acc_hos:64.005791
+[(0, 48), (1, 36), (2, 46), (3, 39), (4, 77), (5, 56), (6, 119), (7, 81), (8, 99), (9, 37), (10, 103), (11, 40), (12, 206), (13, 51), (14, 58), (15, 64), (16, 42), (17, 75), (18, 68), (19, 61), (20, 90), (21, 69), (22, 57), (23, 174), (24, 107), (25, 2462)]
+Update pseudo labels. Accuracy is 65.13173.
+LabelSampler batch_num:1000
+7000 step cost time: 0.0h 41.0m 1s
+
+Learning rate: 0.00668733
+Step: [7100/50000]: lambd:0.6106768328168442, div_loss:27.9040, cls_loss:0.2968
+Learning rate: 0.00665815
+Step: [7200/50000]: lambd:0.6169093028770651, div_loss:22.9069, cls_loss:0.2924
+Learning rate: 0.00662927
+Step: [7300/50000]: lambd:0.623065349572361, div_loss:28.8230, cls_loss:0.2407
+Learning rate: 0.00660067
+Step: [7400/50000]: lambd:0.6291451614140355, div_loss:30.2858, cls_loss:0.4394
+Learning rate: 0.00657236
+Step: [7500/50000]: lambd:0.6351489523872873, div_loss:25.1187, cls_loss:0.2403
+500 step train time: 2627.6s
+Step: [7500/50000]: acc_os:59.282200, acc_os_star:58.823753, acc_unknown:70.743492, acc_hos:64.235336
+7500 step cost time: 0.0h 43.0m 58s
+
+Learning rate: 0.00654433
+Step: [7600/50000]: lambd:0.6410769611853466, div_loss:26.4534, cls_loss:0.3155
+Learning rate: 0.00651658
+Step: [7700/50000]: lambd:0.6469294504417666, div_loss:29.5980, cls_loss:0.2663
+Learning rate: 0.00648911
+Step: [7800/50000]: lambd:0.65270670596199, div_loss:22.9179, cls_loss:0.2395
+Learning rate: 0.00646190
+Step: [7900/50000]: lambd:0.6584090359552512, div_loss:24.6183, cls_loss:0.3635
+Learning rate: 0.00643496
+Step: [8000/50000]: lambd:0.6640367702678489, div_loss:28.6240, cls_loss:0.2590
+500 step train time: 2800.5s
+Step: [8000/50000]: acc_os:59.338612, acc_os_star:58.864571, acc_unknown:71.189590, acc_hos:64.443062
+[(0, 48), (1, 36), (2, 46), (3, 38), (4, 78), (5, 56), (6, 115), (7, 82), (8, 99), (9, 38), (10, 100), (11, 40), (12, 199), (13, 51), (14, 59), (15, 65), (16, 42), (17, 76), (18, 66), (19, 61), (20, 84), (21, 67), (22, 58), (23, 155), (24, 105), (25, 2501)]
+Update pseudo labels. Accuracy is 65.79611.
+LabelSampler batch_num:1000
+8000 step cost time: 0.0h 46.0m 60s
+
+Learning rate: 0.00640827
+Step: [8100/50000]: lambd:0.6695902596187708, div_loss:17.2593, cls_loss:0.2747
+Learning rate: 0.00638185
+Step: [8200/50000]: lambd:0.6750698748386077, div_loss:18.9205, cls_loss:0.4493
+Learning rate: 0.00635568
+Step: [8300/50000]: lambd:0.6804760061126618, div_loss:17.6403, cls_loss:0.3776
+Learning rate: 0.00632975
+Step: [8400/50000]: lambd:0.6858090622290947, div_loss:24.3656, cls_loss:0.4116
+Learning rate: 0.00630407
+Step: [8500/50000]: lambd:0.6910694698329305, div_loss:24.0841, cls_loss:0.2929
+500 step train time: 2981.0s
+Step: [8500/50000]: acc_os:59.063156, acc_os_star:58.540924, acc_unknown:72.118965, acc_hos:64.624428
+8500 step cost time: 0.0h 49.0m 51s
+
+Learning rate: 0.00627864
+Step: [8600/50000]: lambd:0.6962576726866814, div_loss:19.7233, cls_loss:0.3139
+Learning rate: 0.00625344
+Step: [8700/50000]: lambd:0.7013741309383126, div_loss:18.0403, cls_loss:0.2370
+Learning rate: 0.00622847
+Step: [8800/50000]: lambd:0.7064193203972353, div_loss:17.3302, cls_loss:0.2633
+Learning rate: 0.00620374
+Step: [8900/50000]: lambd:0.7113937318189625, div_loss:19.5339, cls_loss:0.3295
+Learning rate: 0.00617924
+Step: [9000/50000]: lambd:0.7162978701990246, div_loss:21.2920, cls_loss:0.2890
+500 step train time: 3148.1s
+Step: [9000/50000]: acc_os:59.333481, acc_os_star:58.854778, acc_unknown:71.301117, acc_hos:64.482841
+[(0, 48), (1, 37), (2, 46), (3, 37), (4, 77), (5, 56), (6, 116), (7, 82), (8, 99), (9, 38), (10, 99), (11, 39), (12, 196), (13, 51), (14, 58), (15, 66), (16, 42), (17, 73), (18, 67), (19, 61), (20, 85), (21, 67), (22, 57), (23, 165), (24, 105), (25, 2498)]
+Update pseudo labels. Accuracy is 65.84192.
+LabelSampler batch_num:1000
+9000 step cost time: 0.0h 52.0m 46s
+
+Learning rate: 0.00615496
+Step: [9100/50000]: lambd:0.7211322540767, div_loss:19.8865, cls_loss:0.2212
+Learning rate: 0.00613090
+Step: [9200/50000]: lambd:0.7258974148490809, div_loss:22.3652, cls_loss:0.2814
+Learning rate: 0.00610706
+Step: [9300/50000]: lambd:0.7305938960959437, div_loss:24.0366, cls_loss:0.2159
+Learning rate: 0.00608343
+Step: [9400/50000]: lambd:0.7352222529158692, div_loss:23.9645, cls_loss:0.2534
+Learning rate: 0.00606002
+Step: [9500/50000]: lambd:0.7397830512740042, div_loss:17.0519, cls_loss:0.2130
+500 step train time: 3317.4s
+Step: [9500/50000]: acc_os:59.197117, acc_os_star:58.711468, acc_unknown:71.338287, acc_hos:64.411896
+9500 step cost time: 0.0h 55.0m 25s
+
+Learning rate: 0.00603682
+Step: [9600/50000]: lambd:0.7442768673618374, div_loss:22.3618, cls_loss:0.2086
+Learning rate: 0.00601382
+Step: [9700/50000]: lambd:0.7487042869693088, div_loss:18.1175, cls_loss:0.2107
+Learning rate: 0.00599102
+Step: [9800/50000]: lambd:0.7530659048695518, div_loss:21.4406, cls_loss:0.2104
+Learning rate: 0.00596843
+Step: [9900/50000]: lambd:0.7573623242165262, div_loss:19.6372, cls_loss:0.2169
+Learning rate: 0.00594604
+Step: [10000/50000]: lambd:0.7615941559557646, div_loss:20.4439, cls_loss:0.2256
+500 step train time: 3487.9s
+Step: [10000/50000]: acc_os:59.017269, acc_os_star:58.484280, acc_unknown:72.342010, acc_hos:64.679214
+[(0, 48), (1, 37), (2, 45), (3, 37), (4, 77), (5, 56), (6, 116), (7, 82), (8, 99), (9, 38), (10, 96), (11, 39), (12, 197), (13, 51), (14, 58), (15, 63), (16, 42), (17, 73), (18, 66), (19, 61), (20, 83), (21, 67), (22, 57), (23, 138), (24, 97), (25, 2542)]
+Update pseudo labels. Accuracy is 66.30011.
+LabelSampler batch_num:1000
+10000 step cost time: 0.0h 58.0m 28s
+
+Learning rate: 0.00592384
+Step: [10100/50000]: lambd:0.765762018248439, div_loss:11.4309, cls_loss:0.3449
+Learning rate: 0.00590183
+Step: [10200/50000]: lambd:0.7698665359089003, div_loss:11.6514, cls_loss:0.2300
+Learning rate: 0.00588001
+Step: [10300/50000]: lambd:0.7739083398558422, div_loss:11.5391, cls_loss:0.2248
+Learning rate: 0.00585838
+Step: [10400/50000]: lambd:0.7778880665771848, div_loss:10.0193, cls_loss:0.2157
+Learning rate: 0.00583693
+Step: [10500/50000]: lambd:0.7818063576087741, div_loss:11.0453, cls_loss:0.2603
+500 step train time: 3677.8s
+Step: [10500/50000]: acc_os:59.028713, acc_os_star:58.484287, acc_unknown:72.639404, acc_hos:64.797813
+10500 step cost time: 1.0h 1.0m 28s
+
+Learning rate: 0.00581567
+Step: [10600/50000]: lambd:0.7856638590269438, div_loss:12.1362, cls_loss:0.2610
+Learning rate: 0.00579458
+Step: [10700/50000]: lambd:0.7894612209549805, div_loss:14.7637, cls_loss:0.2977
+Learning rate: 0.00577368
+Step: [10800/50000]: lambd:0.7931990970835008, div_loss:10.5643, cls_loss:0.3461
+Learning rate: 0.00575295
+Step: [10900/50000]: lambd:0.7968781442047268, div_loss:12.4320, cls_loss:0.2822
+Learning rate: 0.00573239
+Step: [11000/50000]: lambd:0.8004990217606296, div_loss:13.7746, cls_loss:0.2941
+500 step train time: 3853.1s
+Step: [11000/50000]: acc_os:59.352631, acc_os_star:58.847923, acc_unknown:71.970261, acc_hos:64.750946
+[(0, 48), (1, 37), (2, 45), (3, 38), (4, 79), (5, 57), (6, 119), (7, 82), (8, 99), (9, 38), (10, 97), (11, 39), (12, 184), (13, 51), (14, 58), (15, 63), (16, 42), (17, 73), (18, 66), (19, 61), (20, 83), (21, 67), (22, 57), (23, 164), (24, 99), (25, 2519)]
+Update pseudo labels. Accuracy is 66.27721.
+LabelSampler batch_num:1000
+11000 step cost time: 1.0h 4.0m 31s
+
+Learning rate: 0.00571200
+Step: [11100/50000]: lambd:0.8040623914048923, div_loss:17.9461, cls_loss:0.3122
+Learning rate: 0.00569178
+Step: [11200/50000]: lambd:0.8075689165786144, div_loss:13.4374, cls_loss:0.2594
+Learning rate: 0.00567173
+Step: [11300/50000]: lambd:0.8110192620996814, div_loss:15.0479, cls_loss:0.2291
+Learning rate: 0.00565184
+Step: [11400/50000]: lambd:0.8144140937656861, div_loss:19.6046, cls_loss:0.3750
+Learning rate: 0.00563211
+Step: [11500/50000]: lambd:0.8177540779702877, div_loss:15.6993, cls_loss:0.2994
+500 step train time: 4031.0s
+Step: [11500/50000]: acc_os:59.237511, acc_os_star:58.726711, acc_unknown:72.007439, acc_hos:64.692505
+11500 step cost time: 1.0h 7.0m 21s
+
+Learning rate: 0.00561254
+Step: [11600/50000]: lambd:0.8210398813328772, div_loss:15.4250, cls_loss:0.2348
+Learning rate: 0.00559313
+Step: [11700/50000]: lambd:0.8242721703413975, div_loss:16.1787, cls_loss:0.2907
+Learning rate: 0.00557388
+Step: [11800/50000]: lambd:0.8274516110081667, div_loss:12.8813, cls_loss:0.2063
+Learning rate: 0.00555478
+Step: [11900/50000]: lambd:0.8305788685385285, div_loss:13.5087, cls_loss:0.2623
+Learning rate: 0.00553583
+Step: [12000/50000]: lambd:0.8336546070121553, div_loss:15.7619, cls_loss:0.3117
+500 step train time: 4199.5s
+Step: [12000/50000]: acc_os:59.138115, acc_os_star:58.605499, acc_unknown:72.453529, acc_hos:64.797905
+[(0, 48), (1, 37), (2, 45), (3, 37), (4, 77), (5, 57), (6, 118), (7, 82), (8, 99), (9, 38), (10, 96), (11, 39), (12, 190), (13, 51), (14, 58), (15, 63), (16, 42), (17, 73), (18, 66), (19, 61), (20, 83), (21, 67), (22, 57), (23, 141), (24, 97), (25, 2543)]
+Update pseudo labels. Accuracy is 66.43757.
+LabelSampler batch_num:1000
+12000 step cost time: 1.0h 10.0m 17s
+
+Learning rate: 0.00551704
+Step: [12100/50000]: lambd:0.8366794890768108, div_loss:12.2793, cls_loss:0.2650
+Learning rate: 0.00549839
+Step: [12200/50000]: lambd:0.8396541756543754, div_loss:10.6492, cls_loss:0.2327
+Learning rate: 0.00547988
+Step: [12300/50000]: lambd:0.8425793256589298, div_loss:10.2736, cls_loss:0.2939
+Learning rate: 0.00546153
+Step: [12400/50000]: lambd:0.8454555957266803, div_loss:8.3864, cls_loss:0.1879
+Learning rate: 0.00544331
+Step: [12500/50000]: lambd:0.8482836399575131, div_loss:8.6826, cls_loss:0.2543
+500 step train time: 4380.0s
+Step: [12500/50000]: acc_os:59.110703, acc_os_star:58.565094, acc_unknown:72.750931, acc_hos:64.891777
+12500 step cost time: 1.0h 13.0m 10s
+
+Learning rate: 0.00542524
+Step: [12600/50000]: lambd:0.8510641096679439, div_loss:10.4272, cls_loss:0.2674
+Learning rate: 0.00540730
+Step: [12700/50000]: lambd:0.8537976531552436, div_loss:8.0446, cls_loss:0.2534
+Learning rate: 0.00538950
+Step: [12800/50000]: lambd:0.8564849154724972, div_loss:8.4657, cls_loss:0.2093
+Learning rate: 0.00537184
+Step: [12900/50000]: lambd:0.859126538214366, div_loss:10.9065, cls_loss:0.1982
+Learning rate: 0.00535432
+Step: [13000/50000]: lambd:0.8617231593133066, div_loss:12.8389, cls_loss:0.2009
+500 step train time: 4555.0s
+Step: [13000/50000]: acc_os:58.933609, acc_os_star:58.363075, acc_unknown:73.197021, acc_hos:64.943756
+[(0, 48), (1, 37), (2, 45), (3, 37), (4, 78), (5, 57), (6, 118), (7, 82), (8, 99), (9, 38), (10, 96), (11, 39), (12, 180), (13, 52), (14, 58), (15, 63), (16, 42), (17, 73), (18, 66), (19, 61), (20, 83), (21, 67), (22, 57), (23, 118), (24, 97), (25, 2574)]
+Update pseudo labels. Accuracy is 66.75830.
+LabelSampler batch_num:1000
+13000 step cost time: 1.0h 16.0m 15s
+
+Learning rate: 0.00533692
+Step: [13100/50000]: lambd:0.8642754128460111, div_loss:6.1300, cls_loss:0.2994
+Learning rate: 0.00531966
+Step: [13200/50000]: lambd:0.8667839288498187, div_loss:8.5463, cls_loss:0.2460
+Learning rate: 0.00530253
+Step: [13300/50000]: lambd:0.8692493331488547, div_loss:6.2262, cls_loss:0.2328
+Learning rate: 0.00528552
+Step: [13400/50000]: lambd:0.8716722471896521, div_loss:5.6436, cls_loss:0.2366
+Learning rate: 0.00526865
+Step: [13500/50000]: lambd:0.874053287886007, div_loss:8.4272, cls_loss:0.2109
+500 step train time: 4735.2s
+Step: [13500/50000]: acc_os:59.004158, acc_os_star:58.443878, acc_unknown:73.011154, acc_hos:64.920372
+13500 step cost time: 1.0h 19.0m 5s
+
+Learning rate: 0.00525189
+Step: [13600/50000]: lambd:0.8763930674728229, div_loss:5.7608, cls_loss:0.2235
+Learning rate: 0.00523527
+Step: [13700/50000]: lambd:0.8786921933686958, div_loss:8.3978, cls_loss:0.2863
+Learning rate: 0.00521876
+Step: [13800/50000]: lambd:0.8809512680469969, div_loss:6.7088, cls_loss:0.2692
+Learning rate: 0.00520237
+Step: [13900/50000]: lambd:0.8831708889152075, div_loss:5.5487, cls_loss:0.3205
+Learning rate: 0.00518611
+Step: [14000/50000]: lambd:0.8853516482022625, div_loss:6.7261, cls_loss:0.1868
+500 step train time: 4902.5s
+Step: [14000/50000]: acc_os:59.080429, acc_os_star:58.524685, acc_unknown:72.973976, acc_hos:64.955475
+[(0, 48), (1, 37), (2, 45), (3, 37), (4, 79), (5, 57), (6, 118), (7, 82), (8, 99), (9, 38), (10, 96), (11, 39), (12, 178), (13, 52), (14, 58), (15, 63), (16, 42), (17, 73), (18, 66), (19, 61), (20, 83), (21, 67), (22, 57), (23, 133), (24, 97), (25, 2560)]
+Update pseudo labels. Accuracy is 66.71249.
+LabelSampler batch_num:1000
+14000 step cost time: 1.0h 22.0m 2s
+
+Learning rate: 0.00516996
+Step: [14100/50000]: lambd:0.8874941328536654, div_loss:8.2181, cls_loss:0.2689
+Learning rate: 0.00515393
+Step: [14200/50000]: lambd:0.8895989244341314, div_loss:5.5299, cls_loss:0.3386
+Learning rate: 0.00513801
+Step: [14300/50000]: lambd:0.8916665990375279, div_loss:8.7708, cls_loss:0.2577
+Learning rate: 0.00512221
+Step: [14400/50000]: lambd:0.8936977272038724, div_loss:9.1371, cls_loss:0.4058
+Learning rate: 0.00510652
+Step: [14500/50000]: lambd:0.8956928738431646, div_loss:9.2354, cls_loss:0.3007
+500 step train time: 5082.5s
+Step: [14500/50000]: acc_os:58.972454, acc_os_star:58.403473, acc_unknown:73.197021, acc_hos:64.968758
+14500 step cost time: 1.0h 24.0m 52s
+
+Learning rate: 0.00509095
+Step: [14600/50000]: lambd:0.8976525981658168, div_loss:5.8752, cls_loss:0.3019
+Learning rate: 0.00507548
+Step: [14700/50000]: lambd:0.8995774536194672, div_loss:11.1444, cls_loss:0.2753
+Learning rate: 0.00506012
+Step: [14800/50000]: lambd:0.9014679878319465, div_loss:6.4371, cls_loss:0.2112
+Learning rate: 0.00504488
+Step: [14900/50000]: lambd:0.9033247425601898, div_loss:11.4518, cls_loss:0.2549
+Learning rate: 0.00502973
+Step: [15000/50000]: lambd:0.9051482536448667, div_loss:6.2828, cls_loss:0.3683
+500 step train time: 5242.6s
+Step: [15000/50000]: acc_os:59.076138, acc_os_star:58.524685, acc_unknown:72.862450, acc_hos:64.911255
+[(0, 48), (1, 37), (2, 45), (3, 37), (4, 79), (5, 57), (6, 118), (7, 82), (8, 99), (9, 38), (10, 96), (11, 39), (12, 180), (13, 52), (14, 58), (15, 63), (16, 42), (17, 72), (18, 66), (19, 61), (20, 84), (21, 67), (22, 57), (23, 135), (24, 97), (25, 2556)]
+Update pseudo labels. Accuracy is 66.64376.
+LabelSampler batch_num:1000
+15000 step cost time: 1.0h 27.0m 39s
+
+Learning rate: 0.00501470
+Step: [15100/50000]: lambd:0.9069390509705371, div_loss:7.7976, cls_loss:0.2018
+Learning rate: 0.00499977
+Step: [15200/50000]: lambd:0.9086976584311124, div_loss:9.1468, cls_loss:0.3172
+Learning rate: 0.00498494
+Step: [15300/50000]: lambd:0.9104245939004263, div_loss:7.7080, cls_loss:0.2719
+Learning rate: 0.00497021
+Step: [15400/50000]: lambd:0.9121203692077176, div_loss:7.7104, cls_loss:0.3132
+Learning rate: 0.00495558
+Step: [15500/50000]: lambd:0.9137854901178277, div_loss:6.4719, cls_loss:0.2357
+500 step train time: 5422.4s
+Step: [15500/50000]: acc_os:58.978168, acc_os_star:58.403469, acc_unknown:73.345726, acc_hos:65.027260
+15500 step cost time: 1.0h 30.0m 33s
+
+Learning rate: 0.00494106
+Step: [15600/50000]: lambd:0.9154204563159325, div_loss:9.5395, cls_loss:0.3648
+Learning rate: 0.00492663
+Step: [15700/50000]: lambd:0.9170257613966084, div_loss:6.5884, cls_loss:0.2403
+Learning rate: 0.00491230
+Step: [15800/50000]: lambd:0.9186018928570672, div_loss:9.4687, cls_loss:0.2753
+Learning rate: 0.00489807
+Step: [15900/50000]: lambd:0.9201493320943726, div_loss:8.7831, cls_loss:0.3072
+Learning rate: 0.00488394
+Step: [16000/50000]: lambd:0.9216685544064713, div_loss:9.1341, cls_loss:0.1963
+500 step train time: 5594.0s
+Step: [16000/50000]: acc_os:59.112133, acc_os_star:58.565094, acc_unknown:72.788101, acc_hos:64.906563
+[(0, 48), (1, 37), (2, 45), (3, 37), (4, 79), (5, 57), (6, 118), (7, 82), (8, 99), (9, 38), (10, 96), (11, 39), (12, 180), (13, 52), (14, 58), (15, 63), (16, 42), (17, 72), (18, 66), (19, 61), (20, 82), (21, 67), (22, 57), (23, 138), (24, 98), (25, 2554)]
+Update pseudo labels. Accuracy is 66.62085.
+LabelSampler batch_num:1000
+16000 step cost time: 1.0h 33.0m 32s
+
+Learning rate: 0.00486990
+Step: [16100/50000]: lambd:0.9231600289968693, div_loss:8.9017, cls_loss:0.3217
+Learning rate: 0.00485595
+Step: [16200/50000]: lambd:0.9246242189827882, div_loss:11.0711, cls_loss:0.2574
+Learning rate: 0.00484209
+Step: [16300/50000]: lambd:0.9260615814066457, div_loss:5.5085, cls_loss:0.3245
+Learning rate: 0.00482833
+Step: [16400/50000]: lambd:0.9274725672507034, div_loss:12.2335, cls_loss:0.2647
+Learning rate: 0.00481466
+Step: [16500/50000]: lambd:0.9288576214547277, div_loss:13.6067, cls_loss:0.3020
+500 step train time: 5772.5s
+Step: [16500/50000]: acc_os:58.972446, acc_os_star:58.403469, acc_unknown:73.197021, acc_hos:64.968750
+16500 step cost time: 1.0h 36.0m 21s
+
+Learning rate: 0.00480108
+Step: [16600/50000]: lambd:0.9302171829365262, div_loss:11.1956, cls_loss:0.2776
+Learning rate: 0.00478759
+Step: [16700/50000]: lambd:0.9315516846152081, div_loss:9.9136, cls_loss:0.2234
+Learning rate: 0.00477418
+Step: [16800/50000]: lambd:0.932861553437035, div_loss:8.2759, cls_loss:0.3414
+Learning rate: 0.00476086
+Step: [16900/50000]: lambd:0.9341472104037276, div_loss:6.0728, cls_loss:0.2515
+Learning rate: 0.00474763
+Step: [17000/50000]: lambd:0.9354090706030989, div_loss:9.6060, cls_loss:0.2454
+500 step train time: 5943.6s
+Step: [17000/50000]: acc_os:58.941101, acc_os_star:58.378304, acc_unknown:73.011154, acc_hos:64.879898
+[(0, 48), (1, 37), (2, 45), (3, 37), (4, 77), (5, 57), (6, 118), (7, 82), (8, 99), (9, 38), (10, 96), (11, 39), (12, 182), (13, 52), (14, 58), (15, 63), (16, 42), (17, 72), (18, 66), (19, 61), (20, 82), (21, 67), (22, 57), (23, 127), (24, 96), (25, 2567)]
+Update pseudo labels. Accuracy is 66.66667.
+LabelSampler batch_num:1000
+17000 step cost time: 1.0h 39.0m 23s
+
+Learning rate: 0.00473449
+Step: [17100/50000]: lambd:0.9366475432418873, div_loss:5.5078, cls_loss:0.2599
+Learning rate: 0.00472143
+Step: [17200/50000]: lambd:0.9378630316806651, div_loss:6.8013, cls_loss:0.2691
+Learning rate: 0.00470845
+Step: [17300/50000]: lambd:0.9390559334707118, div_loss:7.0926, cls_loss:0.2849
+Learning rate: 0.00469556
+Step: [17400/50000]: lambd:0.9402266403927277, div_loss:9.6723, cls_loss:0.2799
+Learning rate: 0.00468274
+Step: [17500/50000]: lambd:0.9413755384972873, div_loss:4.6560, cls_loss:0.2624
+500 step train time: 6122.9s
+Step: [17500/50000]: acc_os:59.100342, acc_os_star:58.549858, acc_unknown:72.862450, acc_hos:64.926735
+17500 step cost time: 1.0h 42.0m 11s
+
+Learning rate: 0.00467001
+Step: [17600/50000]: lambd:0.9425030081469199, div_loss:6.6330, cls_loss:0.2352
+Learning rate: 0.00465736
+Step: [17700/50000]: lambd:0.9436094240597148, div_loss:5.9174, cls_loss:0.3024
+Learning rate: 0.00464479
+Step: [17800/50000]: lambd:0.9446951553543539, div_loss:4.3115, cls_loss:0.2574
+Learning rate: 0.00463230
+Step: [17900/50000]: lambd:0.9457605655964738, div_loss:5.1389, cls_loss:0.2607
+Learning rate: 0.00461989
+Step: [18000/50000]: lambd:0.9468060128462681, div_loss:5.4001, cls_loss:0.1926
+500 step train time: 6283.8s
+Step: [18000/50000]: acc_os:58.834564, acc_os_star:58.257092, acc_unknown:73.271378, acc_hos:64.907272
+[(0, 48), (1, 37), (2, 45), (3, 37), (4, 79), (5, 57), (6, 118), (7, 82), (8, 99), (9, 38), (10, 96), (11, 39), (12, 183), (13, 52), (14, 58), (15, 64), (16, 42), (17, 72), (18, 66), (19, 61), (20, 82), (21, 67), (22, 57), (23, 111), (24, 95), (25, 2580)]
+Update pseudo labels. Accuracy is 66.75830.
+LabelSampler batch_num:1000
+18000 step cost time: 1.0h 45.0m 3s
+
+Learning rate: 0.00460755
+Step: [18100/50000]: lambd:0.947831849707234, div_loss:3.6527, cls_loss:0.2259
+Learning rate: 0.00459529
+Step: [18200/50000]: lambd:0.9488384233759848, div_loss:3.8700, cls_loss:0.1923
+Learning rate: 0.00458311
+Step: [18300/50000]: lambd:0.9498260756930406, div_loss:3.5699, cls_loss:0.2087
+Learning rate: 0.00457100
+Step: [18400/50000]: lambd:0.950795143194521, div_loss:3.8971, cls_loss:0.2879
+Learning rate: 0.00455897
+Step: [18500/50000]: lambd:0.9517459571646616, div_loss:3.7704, cls_loss:0.2299
+500 step train time: 6466.1s
+Step: [18500/50000]: acc_os:58.838844, acc_os_star:58.257084, acc_unknown:73.382904, acc_hos:64.950996
+18500 step cost time: 1.0h 47.0m 55s
+
+Learning rate: 0.00454701
+Step: [18600/50000]: lambd:0.9526788436890776, div_loss:3.5815, cls_loss:0.2475
+Learning rate: 0.00453512
+Step: [18700/50000]: lambd:0.9535941237087115, div_loss:3.8905, cls_loss:0.3064
+Learning rate: 0.00452330
+Step: [18800/50000]: lambd:0.9544921130743917, div_loss:5.3510, cls_loss:0.2525
+Learning rate: 0.00451156
+Step: [18900/50000]: lambd:0.9553731226019353, div_loss:5.1923, cls_loss:0.2662
+Learning rate: 0.00449989
+Step: [19000/50000]: lambd:0.9562374581277389, div_loss:4.9498, cls_loss:0.2530
+500 step train time: 6637.7s
+Step: [19000/50000]: acc_os:59.220196, acc_os_star:58.661125, acc_unknown:73.197021, acc_hos:65.127861
+[(0, 48), (1, 37), (2, 45), (3, 37), (4, 79), (5, 57), (6, 118), (7, 82), (8, 99), (9, 38), (10, 96), (11, 39), (12, 182), (13, 52), (14, 58), (15, 61), (16, 42), (17, 72), (18, 66), (19, 61), (20, 82), (21, 67), (22, 57), (23, 131), (24, 95), (25, 2564)]
+Update pseudo labels. Accuracy is 66.94158.
+LabelSampler batch_num:1000
+19000 step cost time: 1.0h 50.0m 59s
+
+Learning rate: 0.00448828
+Step: [19100/50000]: lambd:0.957085420564793, div_loss:5.6852, cls_loss:0.2188
+Learning rate: 0.00447675
+Step: [19200/50000]: lambd:0.9579173059590633, div_loss:7.1231, cls_loss:0.2747
+Learning rate: 0.00446529
+Step: [19300/50000]: lambd:0.9587334055461876, div_loss:4.5742, cls_loss:0.2624
+Learning rate: 0.00445389
+Step: [19400/50000]: lambd:0.9595340058084292, div_loss:5.2614, cls_loss:0.2859
+Learning rate: 0.00444256
+Step: [19500/50000]: lambd:0.9603193885318451, div_loss:6.2227, cls_loss:0.2990
+500 step train time: 6817.2s
+Step: [19500/50000]: acc_os:58.975307, acc_os_star:58.403469, acc_unknown:73.271378, acc_hos:64.998024
+19500 step cost time: 1.0h 53.0m 46s
+
+Learning rate: 0.00443130
+Step: [19600/50000]: lambd:0.9610898308636138, div_loss:3.6730, cls_loss:0.2448
+Learning rate: 0.00442011
+Step: [19700/50000]: lambd:0.9618456053694837, div_loss:7.2224, cls_loss:0.3477
+Learning rate: 0.00440898
+Step: [19800/50000]: lambd:0.962586980091291, div_loss:7.7055, cls_loss:0.2602
+Learning rate: 0.00439791
+Step: [19900/50000]: lambd:0.9633142186045134, div_loss:3.9692, cls_loss:0.2882
+Learning rate: 0.00438691
+Step: [20000/50000]: lambd:0.9640275800758169, div_loss:6.9688, cls_loss:0.2165
+500 step train time: 6988.4s
+Step: [20000/50000]: acc_os:58.840275, acc_os_star:58.257084, acc_unknown:73.420074, acc_hos:64.965553
+[(0, 48), (1, 37), (2, 45), (3, 37), (4, 79), (5, 57), (6, 118), (7, 82), (8, 99), (9, 38), (10, 96), (11, 39), (12, 178), (13, 52), (14, 58), (15, 62), (16, 42), (17, 72), (18, 66), (19, 61), (20, 82), (21, 67), (22, 57), (23, 114), (24, 95), (25, 2584)]
+Update pseudo labels. Accuracy is 66.84994.
+LabelSampler batch_num:1000
+20000 step cost time: 1.0h 56.0m 47s
+
+Learning rate: 0.00437598
+Step: [20100/50000]: lambd:0.9647273193205546, div_loss:3.4568, cls_loss:0.1908
+Learning rate: 0.00436511
+Step: [20200/50000]: lambd:0.9654136868601892, div_loss:3.2381, cls_loss:0.2031
+Learning rate: 0.00435430
+Step: [20300/50000]: lambd:0.9660869289795986, div_loss:4.1478, cls_loss:0.2116
+Learning rate: 0.00434355
+Step: [20400/50000]: lambd:0.9667472877842367, div_loss:4.1026, cls_loss:0.2502
+Learning rate: 0.00433286
+Step: [20500/50000]: lambd:0.9673950012571182, div_loss:3.0126, cls_loss:0.2428
+500 step train time: 7158.8s
+Step: [20500/50000]: acc_os:58.847420, acc_os_star:58.257084, acc_unknown:73.605949, acc_hos:65.038216
+20500 step cost time: 1.0h 59.0m 27s
+
+Learning rate: 0.00432224
+Step: [20600/50000]: lambd:0.9680303033155948, div_loss:4.6805, cls_loss:0.2354
+Learning rate: 0.00431168
+Step: [20700/50000]: lambd:0.9686534238679028, div_loss:3.0733, cls_loss:0.2580
+Learning rate: 0.00430117
+Step: [20800/50000]: lambd:0.9692645888694489, div_loss:3.3455, cls_loss:0.2567
+Learning rate: 0.00429073
+Step: [20900/50000]: lambd:0.9698640203788143, div_loss:4.1066, cls_loss:0.1858
+Learning rate: 0.00428034
+Step: [21000/50000]: lambd:0.9704519366134539, div_loss:3.3381, cls_loss:0.2498
+500 step train time: 7327.5s
+Step: [21000/50000]: acc_os:58.719437, acc_os_star:58.135872, acc_unknown:73.308548, acc_hos:64.846512
+[(0, 48), (1, 37), (2, 45), (3, 37), (4, 77), (5, 57), (6, 118), (7, 82), (8, 99), (9, 38), (10, 96), (11, 39), (12, 180), (13, 52), (14, 58), (15, 62), (16, 42), (17, 72), (18, 66), (19, 61), (20, 84), (21, 67), (22, 57), (23, 111), (24, 95), (25, 2585)]
+Update pseudo labels. Accuracy is 66.71249.
+LabelSampler batch_num:1000
+21000 step cost time: 2.0h 2.0m 26s
+
+Learning rate: 0.00427002
+Step: [21100/50000]: lambd:0.9710285520050663, div_loss:4.7800, cls_loss:0.2501
+Learning rate: 0.00425975
+Step: [21200/50000]: lambd:0.9715940772546177, div_loss:4.1747, cls_loss:0.2455
+Learning rate: 0.00424954
+Step: [21300/50000]: lambd:0.9721487193869991, div_loss:4.4154, cls_loss:0.2277
+Learning rate: 0.00423938
+Step: [21400/50000]: lambd:0.9726926818052981, div_loss:3.3983, cls_loss:0.2589
+Learning rate: 0.00422929
+Step: [21500/50000]: lambd:0.9732261643446702, div_loss:4.1990, cls_loss:0.2103
+500 step train time: 7508.0s
+Step: [21500/50000]: acc_os:58.808578, acc_os_star:58.216686, acc_unknown:73.605949, acc_hos:65.013031
+21500 step cost time: 2.0h 5.0m 17s
+
+Learning rate: 0.00421924
+Step: [21600/50000]: lambd:0.9737493633257943, div_loss:3.0904, cls_loss:0.3398
+Learning rate: 0.00420926
+Step: [21700/50000]: lambd:0.9742624716078951, div_loss:2.9381, cls_loss:0.2027
+Learning rate: 0.00419933
+Step: [21800/50000]: lambd:0.9747656786413226, div_loss:3.1145, cls_loss:0.2058
+Learning rate: 0.00418945
+Step: [21900/50000]: lambd:0.9752591705196754, div_loss:5.3881, cls_loss:0.2736
+Learning rate: 0.00417963
+Step: [22000/50000]: lambd:0.9757431300314514, div_loss:5.7253, cls_loss:0.2169
+500 step train time: 7679.8s
+Step: [22000/50000]: acc_os:58.847420, acc_os_star:58.257084, acc_unknown:73.605949, acc_hos:65.038216
+[(0, 48), (1, 37), (2, 45), (3, 37), (4, 79), (5, 57), (6, 118), (7, 82), (8, 99), (9, 38), (10, 96), (11, 39), (12, 175), (13, 52), (14, 58), (15, 61), (16, 42), (17, 72), (18, 66), (19, 61), (20, 82), (21, 67), (22, 57), (23, 112), (24, 95), (25, 2590)]
+Update pseudo labels. Accuracy is 66.96449.
+LabelSampler batch_num:1000
+22000 step cost time: 2.0h 8.0m 18s
+
+Learning rate: 0.00416986
+Step: [22100/50000]: lambd:0.9762177367112259, div_loss:2.7791, cls_loss:0.2419
+Learning rate: 0.00416014
+Step: [22200/50000]: lambd:0.976683166890334, div_loss:3.9143, cls_loss:0.2733
+Learning rate: 0.00415048
+Step: [22300/50000]: lambd:0.9771395937470584, div_loss:2.5503, cls_loss:0.2372
+Learning rate: 0.00414087
+Step: [22400/50000]: lambd:0.9775871873563142, div_loss:2.6011, cls_loss:0.2446
+Learning rate: 0.00413131
+Step: [22500/50000]: lambd:0.9780261147388136, div_loss:2.7579, cls_loss:0.2623
+500 step train time: 7856.5s
+Step: [22500/50000]: acc_os:58.810009, acc_os_star:58.216686, acc_unknown:73.643127, acc_hos:65.027527
+22500 step cost time: 2.0h 11.0m 5s
+
+Learning rate: 0.00412180
+Step: [22600/50000]: lambd:0.9784565399097169, div_loss:2.8974, cls_loss:0.2460
+Learning rate: 0.00411234
+Step: [22700/50000]: lambd:0.9788786239267535, div_loss:2.7532, cls_loss:0.2202
+Learning rate: 0.00410293
+Step: [22800/50000]: lambd:0.9792925249378166, div_loss:2.9572, cls_loss:0.2250
+Learning rate: 0.00409358
+Step: [22900/50000]: lambd:0.9796983982280147, div_loss:2.6045, cls_loss:0.2494
+Learning rate: 0.00408427
+Step: [23000/50000]: lambd:0.9800963962661915, div_loss:3.0921, cls_loss:0.2543
+500 step train time: 8024.1s
+Step: [23000/50000]: acc_os:58.845997, acc_os_star:58.257084, acc_unknown:73.568771, acc_hos:65.023705
+[(0, 48), (1, 37), (2, 45), (3, 37), (4, 79), (5, 57), (6, 118), (7, 82), (8, 99), (9, 38), (10, 96), (11, 39), (12, 176), (13, 52), (14, 58), (15, 61), (16, 42), (17, 72), (18, 66), (19, 61), (20, 82), (21, 67), (22, 57), (23, 111), (24, 96), (25, 2589)]
+Update pseudo labels. Accuracy is 66.94158.
+LabelSampler batch_num:1000
+23000 step cost time: 2.0h 14.0m 1s
+
+Learning rate: 0.00407501
+Step: [23100/50000]: lambd:0.9804866687508975, div_loss:3.8770, cls_loss:0.2868
+Learning rate: 0.00406580
+Step: [23200/50000]: lambd:0.9808693626558167, div_loss:2.5641, cls_loss:0.2246
+Learning rate: 0.00405664
+Step: [23300/50000]: lambd:0.9812446222746465, div_loss:3.1480, cls_loss:0.2496
+Learning rate: 0.00404753
+Step: [23400/50000]: lambd:0.9816125892654239, div_loss:2.2301, cls_loss:0.2486
+Learning rate: 0.00403847
+Step: [23500/50000]: lambd:0.9819734026943041, div_loss:2.5909, cls_loss:0.2805
+500 step train time: 8194.0s
+Step: [23500/50000]: acc_os:58.848850, acc_os_star:58.257084, acc_unknown:73.643127, acc_hos:65.052719
+23500 step cost time: 2.0h 16.0m 43s
+
+Learning rate: 0.00402945
+Step: [23600/50000]: lambd:0.9823271990787845, div_loss:2.7564, cls_loss:0.2913
+Learning rate: 0.00402048
+Step: [23700/50000]: lambd:0.9826741124303737, div_loss:2.7728, cls_loss:0.2156
+Learning rate: 0.00401155
+Step: [23800/50000]: lambd:0.9830142742967114, div_loss:2.7482, cls_loss:0.2939
+Learning rate: 0.00400267
+Step: [23900/50000]: lambd:0.9833478138031322, div_loss:2.5793, cls_loss:0.2495
+Learning rate: 0.00399384
+Step: [24000/50000]: lambd:0.9836748576936802, div_loss:2.8710, cls_loss:0.2432
+500 step train time: 8364.7s
+Step: [24000/50000]: acc_os:58.847420, acc_os_star:58.257084, acc_unknown:73.605949, acc_hos:65.038216
+[(0, 48), (1, 37), (2, 45), (3, 37), (4, 79), (5, 57), (6, 118), (7, 82), (8, 99), (9, 38), (10, 96), (11, 39), (12, 175), (13, 52), (14, 58), (15, 62), (16, 42), (17, 72), (18, 66), (19, 61), (20, 82), (21, 67), (22, 57), (23, 111), (24, 95), (25, 2590)]
+Update pseudo labels. Accuracy is 66.96449.
+LabelSampler batch_num:1000
+24000 step cost time: 2.0h 19.0m 43s
+
+Learning rate: 0.00398505
+Step: [24100/50000]: lambd:0.9839955303715675, div_loss:5.1991, cls_loss:0.2317
+Learning rate: 0.00397631
+Step: [24200/50000]: lambd:0.9843099539390885, div_loss:2.5698, cls_loss:0.3670
+Learning rate: 0.00396761
+Step: [24300/50000]: lambd:0.9846182482369834, div_loss:5.1481, cls_loss:0.2939
+Learning rate: 0.00395896
+Step: [24400/50000]: lambd:0.9849205308832532, div_loss:2.5686, cls_loss:0.2214
+Learning rate: 0.00395035
+Step: [24500/50000]: lambd:0.9852169173114362, div_loss:3.3276, cls_loss:0.2791
+500 step train time: 8541.1s
+Step: [24500/50000]: acc_os:58.810009, acc_os_star:58.216686, acc_unknown:73.643127, acc_hos:65.027527
+early stop! training_step:24500
+Training 24500 step complete in 2.0h 22.0m 31s
+
+Training_step:24500, acc_hos:65.12786102294922
