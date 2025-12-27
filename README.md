@@ -33,7 +33,7 @@ python OSDA.py --root_dir ./data/OfficeHome --dataset officehome --source Real -
 ```
 
 
-For more details of this Open-Set Domain Adaptation (OSDA) approach,  please refer to the following work:
+For more details of this open-set domain adaptation approach,  please refer to the following work:
 
 @article{Wen2026Open,    
 title = {Open-Set Domain Adaptation by Joint Distribution Alignment and Unknown Risk Minimization},    
