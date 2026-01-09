@@ -38,10 +38,10 @@ For more details of this open-set domain adaptation approach,  please refer to t
 @article{Wen2026Open,    
 title = {Open-Set Domain Adaptation by Joint Distribution Alignment and Unknown Risk Minimization},    
 journal = {Pattern Recognition},    
-volume = {},    
-pages = {},    
+volume = {174},    
+pages = {113013},    
 year = {2026},   
-url = {},   
+url = {https://www.sciencedirect.com/science/article/pii/S0031320325016760},   
 author = {Lisheng Wen and Sentao Chen and Lin Zheng and Ping Xuan}   
 }
 
